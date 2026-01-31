@@ -1,0 +1,501 @@
+Date,Day,Subject,Topic,Difficulty_Level,Planned_Hours,Actual_Hours,Mood,Study_Status,Break_Suggested,Reminder_Text,Exam_Date,Stress_Level,Streak_Count,Reward_Badge,Doubt_Asked,Mood_Based_Suggestion,Voice_Reminder,AI_Doubt_Helper,Exam_Fear_Reducer
+2025-10-01,Wednesday,Machine Learning,Linear Regression,Hard,1,0.8,Tired,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2025-10-02,Thursday,Python,Functions,Medium,3,1.2,Normal,Completed,Yes,Revise Functions tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2025-10-03,Friday,Machine Learning,Clustering,Medium,2,1.1,Tired,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Medium,2,None,Yes,Take a short break,No,No,No
+2025-10-04,Saturday,Python,Pandas,Medium,4,3.6,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,High,3,None,No,Keep going,No,No,No
+2025-10-05,Sunday,Machine Learning,Linear Regression,Easy,2,1,Normal,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,High,4,None,No,Keep going,No,No,No
+2025-10-06,Monday,Maths,Calculus,Medium,4,1.9,Active,Completed,Yes,Revise Calculus tomorrow,2026-02-20,High,5,Bronze,Yes,Keep going,No,No,No
+2025-10-07,Tuesday,Python,Functions,Easy,2,1.2,Normal,Pending,Yes,Revise Functions tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2025-10-08,Wednesday,Python,Functions,Easy,1,0.8,Normal,Pending,Yes,Revise Functions tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2025-10-09,Thursday,Statistics,Regression,Medium,3,1.7,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2025-10-10,Friday,Machine Learning,Decision Trees,Hard,4,0.8,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2025-10-11,Saturday,Statistics,Probability,Hard,4,2.1,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2025-10-12,Sunday,Maths,Matrices,Hard,4,3.5,Active,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2025-10-13,Monday,Maths,Vectors,Medium,1,0.7,Tired,Pending,Yes,Revise Vectors tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2025-10-14,Tuesday,Python,Pandas,Easy,2,1.2,Normal,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2025-10-15,Wednesday,Data Science,Data Cleaning,Easy,4,0.7,Normal,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2025-10-16,Thursday,Maths,Algebra,Hard,3,1.2,Tired,Completed,Yes,Revise Algebra tomorrow,2026-02-20,High,1,None,No,Take a short break,No,No,No
+2025-10-17,Friday,Machine Learning,KNN,Hard,4,1.5,Tired,Completed,Yes,Revise KNN tomorrow,2026-02-20,Medium,2,None,No,Take a short break,No,No,No
+2025-10-18,Saturday,Statistics,Distributions,Easy,1,0.9,Normal,Completed,Yes,Revise Distributions tomorrow,2026-02-20,High,3,None,No,Keep going,No,No,No
+2025-10-19,Sunday,Machine Learning,Clustering,Easy,3,2.8,Tired,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2025-10-20,Monday,Python,Matplotlib,Easy,1,0.6,Active,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2025-10-21,Tuesday,Machine Learning,Clustering,Easy,1,0.8,Normal,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2025-10-22,Wednesday,Maths,Matrices,Hard,4,1.6,Normal,Pending,Yes,Revise Matrices tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2025-10-23,Thursday,Statistics,Hypothesis Testing,Hard,4,3.3,Tired,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2025-10-24,Friday,Python,Pandas,Easy,3,0.8,Tired,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2025-10-25,Saturday,Python,Pandas,Easy,2,0.6,Tired,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2025-10-26,Sunday,Maths,Calculus,Hard,1,0.7,Active,Completed,Yes,Revise Calculus tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2025-10-27,Monday,Data Science,Feature Engineering,Medium,1,0.6,Active,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2025-10-28,Tuesday,Statistics,Hypothesis Testing,Easy,1,0.8,Tired,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2025-10-29,Wednesday,Python,Loops,Easy,4,4,Tired,Completed,Yes,Revise Loops tomorrow,2026-02-20,High,2,None,No,Take a short break,No,No,No
+2025-10-30,Thursday,Python,Functions,Easy,2,1.1,Tired,Pending,Yes,Revise Functions tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2025-10-31,Friday,Statistics,Regression,Easy,3,1.9,Active,Pending,Yes,Revise Regression tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2025-11-01,Saturday,Data Science,PCA,Medium,2,1.7,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2025-11-02,Sunday,Data Science,Data Cleaning,Hard,4,1.6,Tired,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2025-11-03,Monday,Maths,Vectors,Medium,4,0.9,Tired,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2025-11-04,Tuesday,Python,Loops,Medium,3,2.6,Tired,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2025-11-05,Wednesday,Maths,Vectors,Medium,2,1.8,Tired,Pending,Yes,Revise Vectors tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2025-11-06,Thursday,Machine Learning,Linear Regression,Hard,2,0.6,Normal,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2025-11-07,Friday,Maths,Algebra,Easy,1,0.8,Active,Pending,Yes,Revise Algebra tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2025-11-08,Saturday,Machine Learning,Decision Trees,Easy,4,3.2,Active,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2025-11-09,Sunday,Statistics,Distributions,Easy,1,0.8,Active,Completed,Yes,Revise Distributions tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2025-11-10,Monday,Maths,Calculus,Medium,1,0.7,Active,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2025-11-11,Tuesday,Machine Learning,Linear Regression,Medium,3,2.8,Active,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2025-11-12,Wednesday,Machine Learning,Linear Regression,Easy,3,3,Tired,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2025-11-13,Thursday,Maths,Matrices,Hard,4,2.9,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2025-11-14,Friday,Python,Matplotlib,Medium,1,1,Active,Pending,No,Revise Matplotlib tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2025-11-15,Saturday,Python,Pandas,Hard,4,2.3,Active,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2025-11-16,Sunday,Maths,Vectors,Easy,1,0.9,Active,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Low,2,None,No,Keep going,No,No,No
+2025-11-17,Monday,Maths,Vectors,Hard,2,1.6,Active,Completed,Yes,Revise Vectors tomorrow,2026-02-20,High,3,None,Yes,Keep going,No,No,No
+2025-11-18,Tuesday,Python,Matplotlib,Easy,2,2,Normal,Pending,No,Revise Matplotlib tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2025-11-19,Wednesday,Statistics,Regression,Hard,4,3.5,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2025-11-20,Thursday,Machine Learning,Decision Trees,Hard,4,0.9,Active,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,2,None,No,Keep going,No,No,No
+2025-11-21,Friday,Python,Pandas,Hard,1,0.6,Tired,Completed,Yes,Revise Pandas tomorrow,2026-02-20,High,3,None,Yes,Take a short break,No,No,No
+2025-11-22,Saturday,Statistics,Regression,Easy,4,2.8,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2025-11-23,Sunday,Python,Matplotlib,Easy,4,3.5,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2025-11-24,Monday,Machine Learning,Linear Regression,Medium,1,1,Normal,Pending,No,Revise Linear Regression tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2025-11-25,Tuesday,Python,Loops,Hard,3,1.7,Normal,Pending,Yes,Revise Loops tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2025-11-26,Wednesday,Python,Matplotlib,Medium,3,2.2,Active,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2025-11-27,Thursday,Maths,Matrices,Easy,4,3.4,Active,Pending,Yes,Revise Matrices tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2025-11-28,Friday,Statistics,Probability,Medium,4,2.2,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2025-11-29,Saturday,Python,Pandas,Easy,4,2.9,Active,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2025-11-30,Sunday,Maths,Matrices,Easy,2,1.3,Normal,Pending,Yes,Revise Matrices tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2025-12-01,Monday,Data Science,EDA,Hard,2,1.6,Normal,Pending,Yes,Revise EDA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2025-12-02,Tuesday,Statistics,Hypothesis Testing,Hard,1,0.7,Tired,Pending,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2025-12-03,Wednesday,Data Science,Feature Engineering,Hard,1,0.8,Tired,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2025-12-04,Thursday,Machine Learning,Decision Trees,Hard,4,1.2,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,2,None,No,Keep going,No,No,No
+2025-12-05,Friday,Python,Functions,Hard,4,3.8,Active,Completed,Yes,Revise Functions tomorrow,2026-02-20,Low,3,None,No,Keep going,No,No,No
+2025-12-06,Saturday,Data Science,EDA,Medium,4,0.7,Normal,Completed,Yes,Revise EDA tomorrow,2026-02-20,Medium,4,None,No,Keep going,No,No,No
+2025-12-07,Sunday,Statistics,Regression,Easy,1,0.7,Active,Pending,Yes,Revise Regression tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2025-12-08,Monday,Data Science,PCA,Medium,3,2.9,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2025-12-09,Tuesday,Statistics,Probability,Hard,4,1,Active,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2025-12-10,Wednesday,Python,Pandas,Easy,3,2.3,Active,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2025-12-11,Thursday,Python,Pandas,Hard,2,1.2,Active,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2025-12-12,Friday,Data Science,PCA,Hard,2,1.4,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2025-12-13,Saturday,Statistics,Regression,Easy,2,1.2,Normal,Completed,Yes,Revise Regression tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2025-12-14,Sunday,Python,Matplotlib,Medium,3,3,Active,Completed,No,Revise Matplotlib tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2025-12-15,Monday,Machine Learning,Clustering,Hard,4,0.6,Normal,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Low,3,None,Yes,Keep going,No,No,No
+2025-12-16,Tuesday,Maths,Matrices,Medium,3,2.1,Normal,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,4,None,Yes,Keep going,No,No,No
+2025-12-17,Wednesday,Maths,Algebra,Easy,2,0.5,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2025-12-18,Thursday,Machine Learning,Decision Trees,Hard,1,0.9,Tired,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2025-12-19,Friday,Statistics,Probability,Easy,3,0.7,Active,Completed,Yes,Revise Probability tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2025-12-20,Saturday,Data Science,Data Cleaning,Hard,2,2,Tired,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2025-12-21,Sunday,Maths,Algebra,Medium,1,0.8,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2025-12-22,Monday,Statistics,Hypothesis Testing,Hard,1,0.6,Active,Pending,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2025-12-23,Tuesday,Maths,Calculus,Easy,1,0.6,Active,Pending,Yes,Revise Calculus tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2025-12-24,Wednesday,Maths,Algebra,Medium,1,0.6,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2025-12-25,Thursday,Data Science,Feature Engineering,Easy,4,2.5,Normal,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2025-12-26,Friday,Python,Pandas,Easy,2,1.9,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Medium,2,None,Yes,Keep going,No,No,No
+2025-12-27,Saturday,Data Science,Feature Engineering,Medium,2,1.1,Tired,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Low,3,None,Yes,Take a short break,No,No,No
+2025-12-28,Sunday,Maths,Calculus,Hard,2,0.9,Tired,Pending,Yes,Revise Calculus tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2025-12-29,Monday,Machine Learning,Decision Trees,Medium,1,0.6,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2025-12-30,Tuesday,Python,Loops,Easy,3,2.8,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,2,None,Yes,Keep going,No,No,No
+2025-12-31,Wednesday,Machine Learning,KNN,Medium,2,1.2,Active,Pending,Yes,Revise KNN tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-01-01,Thursday,Machine Learning,KNN,Medium,4,3.8,Normal,Completed,Yes,Revise KNN tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-01-02,Friday,Python,Loops,Easy,3,1.5,Tired,Pending,Yes,Revise Loops tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-01-03,Saturday,Maths,Calculus,Hard,2,1.3,Tired,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-01-04,Sunday,Maths,Calculus,Medium,1,0.7,Active,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-01-05,Monday,Python,Loops,Hard,1,0.5,Active,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-01-06,Tuesday,Data Science,PCA,Hard,1,0.7,Active,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-01-07,Wednesday,Maths,Vectors,Easy,1,0.9,Active,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-01-08,Thursday,Maths,Vectors,Easy,4,3,Tired,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Low,3,None,Yes,Take a short break,No,No,No
+2026-01-09,Friday,Data Science,PCA,Hard,4,3.1,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,Low,4,None,Yes,Take a short break,No,No,No
+2026-01-10,Saturday,Statistics,Hypothesis Testing,Hard,4,3.7,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,5,Bronze,Yes,Keep going,No,No,No
+2026-01-11,Sunday,Data Science,EDA,Medium,2,1.2,Active,Pending,Yes,Revise EDA tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-01-12,Monday,Python,Pandas,Hard,1,0.9,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-01-13,Tuesday,Data Science,Data Cleaning,Medium,1,0.5,Normal,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-01-14,Wednesday,Data Science,EDA,Hard,2,1.7,Active,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-01-15,Thursday,Python,Loops,Medium,3,3,Active,Pending,No,Revise Loops tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-01-16,Friday,Statistics,Probability,Medium,3,2.6,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-01-17,Saturday,Python,Pandas,Hard,3,2.7,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-01-18,Sunday,Python,Loops,Easy,3,2.8,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2026-01-19,Monday,Maths,Algebra,Medium,4,2.5,Active,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-01-20,Tuesday,Statistics,Regression,Medium,4,1.6,Active,Pending,Yes,Revise Regression tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-01-21,Wednesday,Machine Learning,Clustering,Easy,3,2.5,Active,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-01-22,Thursday,Data Science,Feature Engineering,Medium,4,2.2,Active,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-01-23,Friday,Machine Learning,Decision Trees,Hard,2,0.9,Tired,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-01-24,Saturday,Maths,Calculus,Easy,4,3.7,Tired,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-01-25,Sunday,Python,Pandas,Medium,3,1.3,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-01-26,Monday,Machine Learning,Linear Regression,Medium,3,0.7,Active,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,Medium,2,None,Yes,Keep going,No,No,No
+2026-01-27,Tuesday,Python,Loops,Easy,3,1.6,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,3,None,No,Keep going,No,No,No
+2026-01-28,Wednesday,Maths,Matrices,Easy,4,1.1,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,High,4,None,No,Take a short break,No,No,No
+2026-01-29,Thursday,Statistics,Probability,Easy,4,0.7,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-01-30,Friday,Python,Matplotlib,Easy,1,1,Active,Pending,No,Revise Matplotlib tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-01-31,Saturday,Data Science,Data Cleaning,Easy,2,1.6,Normal,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-02-01,Sunday,Machine Learning,Linear Regression,Medium,3,1.5,Tired,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-02-02,Monday,Python,Matplotlib,Hard,4,2.7,Tired,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2026-02-03,Tuesday,Data Science,EDA,Hard,1,0.5,Active,Completed,Yes,Revise EDA tomorrow,2026-02-20,Medium,2,None,No,Keep going,No,No,No
+2026-02-04,Wednesday,Machine Learning,Clustering,Medium,1,0.7,Tired,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-02-05,Thursday,Python,Loops,Easy,3,1.5,Tired,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-02-06,Friday,Statistics,Distributions,Easy,4,2.3,Normal,Pending,Yes,Revise Distributions tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-02-07,Saturday,Data Science,EDA,Easy,1,0.8,Tired,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-02-08,Sunday,Python,Matplotlib,Hard,4,2.8,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-02-09,Monday,Data Science,PCA,Medium,3,2.2,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-02-10,Tuesday,Python,Loops,Easy,2,1.6,Normal,Pending,Yes,Revise Loops tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-02-11,Wednesday,Python,Loops,Hard,2,0.6,Tired,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-02-12,Thursday,Data Science,Feature Engineering,Easy,2,1,Tired,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,1,None,No,Take a short break,No,No,No
+2026-02-13,Friday,Statistics,Probability,Easy,3,2.5,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-02-14,Saturday,Machine Learning,Clustering,Easy,2,1,Normal,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-02-15,Sunday,Statistics,Distributions,Medium,3,0.5,Normal,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-02-16,Monday,Maths,Algebra,Easy,1,0.9,Normal,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-02-17,Tuesday,Statistics,Hypothesis Testing,Medium,3,1,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-02-18,Wednesday,Statistics,Regression,Medium,2,1.4,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-02-19,Thursday,Machine Learning,KNN,Medium,1,0.5,Normal,Completed,Yes,Revise KNN tomorrow,2026-02-20,High,3,None,No,Keep going,No,No,No
+2026-02-20,Friday,Statistics,Regression,Medium,3,1.6,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,4,None,No,Keep going,No,No,No
+2026-02-21,Saturday,Maths,Algebra,Hard,1,0.7,Normal,Pending,Yes,Revise Algebra tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-02-22,Sunday,Statistics,Hypothesis Testing,Medium,2,1.6,Active,Pending,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-02-23,Monday,Machine Learning,KNN,Easy,3,1.7,Active,Completed,Yes,Revise KNN tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-02-24,Tuesday,Statistics,Probability,Medium,2,1.8,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-02-25,Wednesday,Machine Learning,KNN,Hard,2,0.6,Tired,Completed,Yes,Revise KNN tomorrow,2026-02-20,Medium,3,None,No,Take a short break,No,No,No
+2026-02-26,Thursday,Machine Learning,Clustering,Hard,4,2.9,Normal,Completed,Yes,Revise Clustering tomorrow,2026-02-20,High,4,None,No,Keep going,No,No,No
+2026-02-27,Friday,Machine Learning,Decision Trees,Hard,1,0.7,Active,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-02-28,Saturday,Maths,Matrices,Easy,4,3.6,Active,Pending,Yes,Revise Matrices tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-03-01,Sunday,Machine Learning,KNN,Hard,2,1.6,Normal,Completed,Yes,Revise KNN tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-03-02,Monday,Python,Matplotlib,Hard,1,0.8,Normal,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-03-03,Tuesday,Maths,Algebra,Hard,4,1.4,Tired,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Low,1,None,No,Take a short break,No,No,No
+2026-03-04,Wednesday,Maths,Matrices,Hard,4,2.3,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,2,None,No,Take a short break,No,No,No
+2026-03-05,Thursday,Python,Functions,Hard,1,0.7,Tired,Completed,Yes,Revise Functions tomorrow,2026-02-20,Low,3,None,No,Take a short break,No,No,No
+2026-03-06,Friday,Maths,Matrices,Easy,3,2.2,Normal,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Low,4,None,No,Keep going,No,No,No
+2026-03-07,Saturday,Python,Functions,Easy,1,0.7,Active,Completed,Yes,Revise Functions tomorrow,2026-02-20,High,5,Bronze,No,Keep going,No,No,No
+2026-03-08,Sunday,Maths,Vectors,Hard,4,3.7,Active,Completed,Yes,Revise Vectors tomorrow,2026-02-20,High,6,Bronze,Yes,Keep going,No,No,No
+2026-03-09,Monday,Machine Learning,KNN,Easy,4,3.4,Normal,Pending,Yes,Revise KNN tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-03-10,Tuesday,Maths,Algebra,Easy,3,2.1,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-03-11,Wednesday,Machine Learning,Linear Regression,Medium,4,2.1,Normal,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-03-12,Thursday,Python,Matplotlib,Easy,1,0.8,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-03-13,Friday,Data Science,PCA,Hard,1,0.9,Active,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,2,None,Yes,Keep going,No,No,No
+2026-03-14,Saturday,Python,Matplotlib,Easy,4,2.6,Tired,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-03-15,Sunday,Maths,Matrices,Hard,2,2,Normal,Completed,No,Revise Matrices tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-03-16,Monday,Python,Loops,Hard,1,0.8,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,Low,2,None,No,Keep going,No,No,No
+2026-03-17,Tuesday,Data Science,Feature Engineering,Easy,1,0.9,Tired,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-03-18,Wednesday,Statistics,Probability,Easy,2,1.6,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-03-19,Thursday,Data Science,PCA,Hard,3,3,Active,Pending,No,Revise PCA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-03-20,Friday,Python,Matplotlib,Easy,2,0.9,Active,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-03-21,Saturday,Statistics,Regression,Easy,4,1.3,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,Medium,2,None,No,Keep going,No,No,No
+2026-03-22,Sunday,Python,Functions,Easy,1,0.9,Tired,Pending,Yes,Revise Functions tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2026-03-23,Monday,Statistics,Regression,Easy,4,2.7,Normal,Pending,Yes,Revise Regression tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-03-24,Tuesday,Statistics,Regression,Easy,2,1.5,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-03-25,Wednesday,Data Science,PCA,Hard,2,0.8,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-03-26,Thursday,Data Science,EDA,Easy,1,0.7,Tired,Pending,Yes,Revise EDA tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2026-03-27,Friday,Data Science,EDA,Medium,3,1.2,Tired,Completed,Yes,Revise EDA tomorrow,2026-02-20,Medium,1,None,No,Take a short break,No,No,No
+2026-03-28,Saturday,Data Science,PCA,Easy,3,0.7,Normal,Completed,Yes,Revise PCA tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-03-29,Sunday,Statistics,Hypothesis Testing,Medium,4,3,Normal,Pending,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-03-30,Monday,Data Science,EDA,Easy,3,2,Tired,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-03-31,Tuesday,Data Science,PCA,Medium,4,1.1,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,Low,1,None,No,Take a short break,No,No,No
+2026-04-01,Wednesday,Data Science,PCA,Easy,2,0.7,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-04-02,Thursday,Python,Matplotlib,Hard,2,1.5,Active,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-04-03,Friday,Maths,Matrices,Medium,2,0.8,Active,Pending,Yes,Revise Matrices tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-04-04,Saturday,Maths,Algebra,Easy,2,1.6,Tired,Completed,Yes,Revise Algebra tomorrow,2026-02-20,High,1,None,No,Take a short break,No,No,No
+2026-04-05,Sunday,Maths,Vectors,Hard,4,0.6,Normal,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-04-06,Monday,Data Science,EDA,Medium,1,0.9,Normal,Completed,Yes,Revise EDA tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-04-07,Tuesday,Data Science,Feature Engineering,Medium,3,2.1,Tired,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-04-08,Wednesday,Python,Pandas,Medium,2,0.8,Normal,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-04-09,Thursday,Python,Pandas,Medium,4,0.7,Normal,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-04-10,Friday,Statistics,Distributions,Medium,4,0.6,Active,Completed,Yes,Revise Distributions tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-04-11,Saturday,Data Science,PCA,Hard,1,0.6,Active,Completed,Yes,Revise PCA tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-04-12,Sunday,Statistics,Hypothesis Testing,Hard,3,1.8,Active,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,3,None,No,Keep going,No,No,No
+2026-04-13,Monday,Data Science,Data Cleaning,Easy,2,0.9,Normal,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-04-14,Tuesday,Maths,Matrices,Medium,4,1.3,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,High,1,None,Yes,Take a short break,No,No,No
+2026-04-15,Wednesday,Statistics,Regression,Medium,3,0.6,Active,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-04-16,Thursday,Python,Loops,Easy,1,0.7,Normal,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,3,None,No,Keep going,No,No,No
+2026-04-17,Friday,Data Science,Data Cleaning,Hard,3,2.1,Active,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-04-18,Saturday,Statistics,Probability,Easy,2,0.8,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-04-19,Sunday,Python,Matplotlib,Medium,2,1.9,Active,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-04-20,Monday,Python,Loops,Medium,2,1.1,Normal,Completed,Yes,Revise Loops tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-04-21,Tuesday,Maths,Calculus,Medium,2,0.6,Tired,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-04-22,Wednesday,Machine Learning,Decision Trees,Hard,2,1,Tired,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-04-23,Thursday,Machine Learning,Clustering,Medium,1,1,Active,Completed,No,Revise Clustering tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-04-24,Friday,Python,Pandas,Easy,3,1.3,Active,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-04-25,Saturday,Data Science,EDA,Easy,2,1.3,Active,Completed,Yes,Revise EDA tomorrow,2026-02-20,Medium,3,None,No,Keep going,No,No,No
+2026-04-26,Sunday,Python,Matplotlib,Hard,4,1.6,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,4,None,No,Keep going,No,No,No
+2026-04-27,Monday,Statistics,Probability,Hard,3,1.5,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,5,Bronze,Yes,Keep going,No,No,No
+2026-04-28,Tuesday,Maths,Matrices,Easy,4,3.2,Normal,Completed,Yes,Revise Matrices tomorrow,2026-02-20,High,6,Bronze,Yes,Keep going,No,No,No
+2026-04-29,Wednesday,Python,Functions,Medium,2,0.6,Active,Pending,Yes,Revise Functions tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-04-30,Thursday,Statistics,Distributions,Medium,2,1.3,Active,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-05-01,Friday,Python,Loops,Hard,3,1.1,Normal,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-05-02,Saturday,Statistics,Regression,Easy,2,1.5,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-05-03,Sunday,Maths,Algebra,Easy,2,1,Active,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-05-04,Monday,Data Science,PCA,Hard,4,1.1,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,Low,2,None,Yes,Take a short break,No,No,No
+2026-05-05,Tuesday,Statistics,Distributions,Medium,1,0.7,Tired,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-05-06,Wednesday,Data Science,Data Cleaning,Hard,4,3.9,Normal,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-05-07,Thursday,Machine Learning,Clustering,Medium,3,1.3,Tired,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-05-08,Friday,Data Science,EDA,Hard,3,2.8,Tired,Completed,Yes,Revise EDA tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2026-05-09,Saturday,Machine Learning,Clustering,Hard,2,1.8,Tired,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-05-10,Sunday,Machine Learning,Linear Regression,Easy,2,1.4,Active,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-05-11,Monday,Maths,Calculus,Hard,2,0.8,Normal,Completed,Yes,Revise Calculus tomorrow,2026-02-20,Medium,2,None,No,Keep going,No,No,No
+2026-05-12,Tuesday,Python,Matplotlib,Medium,4,3.8,Active,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-05-13,Wednesday,Maths,Matrices,Medium,4,0.9,Normal,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-05-14,Thursday,Machine Learning,KNN,Hard,2,1,Active,Pending,Yes,Revise KNN tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-05-15,Friday,Data Science,Feature Engineering,Hard,3,1,Tired,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2026-05-16,Saturday,Python,Loops,Medium,1,0.5,Normal,Completed,Yes,Revise Loops tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2026-05-17,Sunday,Statistics,Probability,Medium,4,3.6,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-05-18,Monday,Maths,Algebra,Hard,4,3.4,Active,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-05-19,Tuesday,Data Science,PCA,Hard,4,2.4,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-05-20,Wednesday,Statistics,Hypothesis Testing,Medium,2,1.2,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-05-21,Thursday,Python,Loops,Medium,1,0.5,Tired,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,2,None,No,Take a short break,No,No,No
+2026-05-22,Friday,Statistics,Distributions,Easy,2,1.2,Normal,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-05-23,Saturday,Python,Loops,Hard,1,0.5,Active,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-05-24,Sunday,Machine Learning,Linear Regression,Hard,2,0.9,Tired,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-05-25,Monday,Python,Functions,Hard,3,0.6,Active,Completed,Yes,Revise Functions tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-05-26,Tuesday,Machine Learning,KNN,Medium,3,2.4,Normal,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-05-27,Wednesday,Maths,Calculus,Easy,1,0.6,Tired,Completed,Yes,Revise Calculus tomorrow,2026-02-20,Low,1,None,No,Take a short break,No,No,No
+2026-05-28,Thursday,Statistics,Probability,Hard,3,1.9,Tired,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,2,None,Yes,Take a short break,No,No,No
+2026-05-29,Friday,Data Science,EDA,Hard,4,3.8,Normal,Pending,Yes,Revise EDA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-05-30,Saturday,Statistics,Regression,Hard,3,1.4,Normal,Pending,Yes,Revise Regression tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-05-31,Sunday,Machine Learning,Decision Trees,Easy,1,0.8,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-06-01,Monday,Python,Loops,Medium,1,0.6,Active,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-06-02,Tuesday,Machine Learning,KNN,Medium,1,0.6,Normal,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-06-03,Wednesday,Python,Loops,Easy,3,2.7,Tired,Pending,Yes,Revise Loops tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-06-04,Thursday,Statistics,Probability,Easy,4,2.8,Tired,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-06-05,Friday,Python,Loops,Easy,2,1.8,Normal,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-06-06,Saturday,Python,Pandas,Easy,4,0.7,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-06-07,Sunday,Maths,Matrices,Easy,2,0.9,Normal,Pending,Yes,Revise Matrices tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-06-08,Monday,Statistics,Probability,Medium,1,0.7,Active,Pending,Yes,Revise Probability tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-06-09,Tuesday,Machine Learning,Clustering,Hard,1,0.8,Tired,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Medium,1,None,No,Take a short break,No,No,No
+2026-06-10,Wednesday,Data Science,Data Cleaning,Easy,2,1.3,Tired,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-06-11,Thursday,Maths,Calculus,Hard,3,0.8,Tired,Completed,Yes,Revise Calculus tomorrow,2026-02-20,High,1,None,Yes,Take a short break,No,No,No
+2026-06-12,Friday,Machine Learning,KNN,Easy,3,2.6,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-06-13,Saturday,Machine Learning,KNN,Easy,4,1.1,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-06-14,Sunday,Machine Learning,Clustering,Easy,2,2,Normal,Pending,No,Revise Clustering tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-06-15,Monday,Maths,Vectors,Easy,4,2.2,Tired,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2026-06-16,Tuesday,Statistics,Distributions,Hard,4,3.1,Normal,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-06-17,Wednesday,Python,Loops,Hard,2,1.5,Active,Pending,Yes,Revise Loops tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-06-18,Thursday,Statistics,Regression,Medium,3,1.5,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2026-06-19,Friday,Python,Loops,Hard,4,1.9,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-06-20,Saturday,Machine Learning,Clustering,Easy,4,1.5,Normal,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-06-21,Sunday,Maths,Vectors,Medium,4,2.2,Active,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-06-22,Monday,Machine Learning,KNN,Easy,3,1.6,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2026-06-23,Tuesday,Machine Learning,Clustering,Hard,4,2.5,Tired,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-06-24,Wednesday,Statistics,Hypothesis Testing,Hard,1,0.5,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-06-25,Thursday,Data Science,EDA,Easy,2,1.5,Active,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-06-26,Friday,Statistics,Regression,Hard,3,1.6,Active,Pending,Yes,Revise Regression tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-06-27,Saturday,Maths,Algebra,Easy,1,0.9,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-06-28,Sunday,Python,Pandas,Hard,1,0.8,Normal,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-06-29,Monday,Maths,Algebra,Hard,2,1,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-06-30,Tuesday,Statistics,Distributions,Medium,3,2.6,Active,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-07-01,Wednesday,Data Science,Data Cleaning,Easy,4,3.7,Active,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-07-02,Thursday,Machine Learning,Decision Trees,Easy,3,2.8,Active,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-07-03,Friday,Machine Learning,KNN,Easy,4,2,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-07-04,Saturday,Python,Loops,Easy,2,1.2,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-07-05,Sunday,Maths,Calculus,Easy,1,0.9,Active,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-07-06,Monday,Statistics,Probability,Hard,1,0.6,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-07-07,Tuesday,Data Science,EDA,Easy,1,1,Normal,Completed,No,Revise EDA tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-07-08,Wednesday,Data Science,PCA,Easy,1,0.5,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-07-09,Thursday,Machine Learning,Linear Regression,Medium,1,0.8,Tired,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2026-07-10,Friday,Maths,Matrices,Hard,4,1.1,Normal,Pending,Yes,Revise Matrices tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-07-11,Saturday,Machine Learning,Decision Trees,Hard,3,0.8,Tired,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-07-12,Sunday,Python,Pandas,Medium,1,0.8,Tired,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-07-13,Monday,Python,Pandas,Medium,1,1,Tired,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-07-14,Tuesday,Statistics,Hypothesis Testing,Medium,2,1.6,Tired,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,High,1,None,Yes,Take a short break,No,No,No
+2026-07-15,Wednesday,Python,Matplotlib,Easy,4,1.7,Tired,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,2,None,Yes,Take a short break,No,No,No
+2026-07-16,Thursday,Statistics,Probability,Medium,4,3.8,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,3,None,Yes,Keep going,No,No,No
+2026-07-17,Friday,Maths,Vectors,Hard,4,3.6,Tired,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Low,4,None,Yes,Take a short break,No,No,No
+2026-07-18,Saturday,Maths,Calculus,Medium,1,0.6,Tired,Completed,Yes,Revise Calculus tomorrow,2026-02-20,High,5,Bronze,Yes,Take a short break,No,No,No
+2026-07-19,Sunday,Machine Learning,Clustering,Hard,1,0.6,Normal,Completed,Yes,Revise Clustering tomorrow,2026-02-20,High,6,Bronze,Yes,Keep going,No,No,No
+2026-07-20,Monday,Statistics,Probability,Easy,3,1.8,Tired,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,7,Bronze,No,Take a short break,No,No,No
+2026-07-21,Tuesday,Data Science,PCA,Easy,4,1.2,Tired,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,No,Take a short break,No,No,No
+2026-07-22,Wednesday,Python,Matplotlib,Hard,1,0.8,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-07-23,Thursday,Statistics,Probability,Easy,3,2.4,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-07-24,Friday,Python,Matplotlib,Medium,4,2.4,Tired,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,3,None,Yes,Take a short break,No,No,No
+2026-07-25,Saturday,Python,Loops,Medium,2,1.9,Normal,Pending,Yes,Revise Loops tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-07-26,Sunday,Machine Learning,KNN,Easy,1,0.7,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-07-27,Monday,Maths,Vectors,Easy,3,2.6,Tired,Pending,Yes,Revise Vectors tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-07-28,Tuesday,Maths,Vectors,Hard,3,2.5,Active,Pending,Yes,Revise Vectors tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-07-29,Wednesday,Machine Learning,Decision Trees,Hard,4,1.7,Normal,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-07-30,Thursday,Python,Functions,Hard,4,3.8,Active,Completed,Yes,Revise Functions tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-07-31,Friday,Python,Matplotlib,Hard,2,1,Active,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2026-08-01,Saturday,Statistics,Probability,Easy,1,0.9,Tired,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-08-02,Sunday,Statistics,Hypothesis Testing,Easy,4,3.7,Tired,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,1,None,No,Take a short break,No,No,No
+2026-08-03,Monday,Data Science,PCA,Easy,2,1.3,Normal,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,2,None,No,Keep going,No,No,No
+2026-08-04,Tuesday,Maths,Algebra,Easy,3,2.6,Tired,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Low,3,None,Yes,Take a short break,No,No,No
+2026-08-05,Wednesday,Maths,Calculus,Easy,3,0.8,Normal,Pending,Yes,Revise Calculus tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-08-06,Thursday,Data Science,PCA,Easy,2,1.7,Active,Completed,Yes,Revise PCA tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-08-07,Friday,Data Science,PCA,Hard,1,0.8,Normal,Completed,Yes,Revise PCA tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2026-08-08,Saturday,Statistics,Hypothesis Testing,Medium,1,1,Normal,Pending,No,Revise Hypothesis Testing tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-08-09,Sunday,Machine Learning,Decision Trees,Easy,1,0.7,Normal,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-08-10,Monday,Data Science,PCA,Easy,4,3.1,Normal,Completed,Yes,Revise PCA tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-08-11,Tuesday,Data Science,EDA,Easy,2,0.8,Active,Pending,Yes,Revise EDA tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-08-12,Wednesday,Python,Matplotlib,Medium,3,0.7,Normal,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-08-13,Thursday,Data Science,PCA,Hard,2,1.8,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-08-14,Friday,Python,Matplotlib,Medium,4,3,Tired,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2026-08-15,Saturday,Machine Learning,Decision Trees,Medium,3,1.9,Normal,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-08-16,Sunday,Maths,Matrices,Hard,1,1,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,High,1,None,Yes,Take a short break,No,No,No
+2026-08-17,Monday,Data Science,PCA,Medium,1,0.8,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-08-18,Tuesday,Maths,Matrices,Hard,4,1.8,Active,Pending,Yes,Revise Matrices tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-08-19,Wednesday,Maths,Vectors,Easy,1,0.6,Tired,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2026-08-20,Thursday,Data Science,Feature Engineering,Medium,4,3.6,Normal,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-08-21,Friday,Statistics,Distributions,Medium,3,3,Tired,Completed,Yes,Revise Distributions tomorrow,2026-02-20,Low,1,None,No,Take a short break,No,No,No
+2026-08-22,Saturday,Machine Learning,Linear Regression,Easy,3,1.4,Active,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-08-23,Sunday,Statistics,Distributions,Easy,4,2,Tired,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-08-24,Monday,Machine Learning,KNN,Easy,2,1.6,Active,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-08-25,Tuesday,Maths,Matrices,Medium,3,1.3,Normal,Pending,Yes,Revise Matrices tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-08-26,Wednesday,Machine Learning,Linear Regression,Easy,3,2.1,Active,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-08-27,Thursday,Python,Pandas,Easy,3,0.5,Normal,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-08-28,Friday,Data Science,Data Cleaning,Hard,1,0.7,Normal,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-08-29,Saturday,Maths,Algebra,Medium,1,0.6,Active,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-08-30,Sunday,Python,Pandas,Medium,2,1.1,Active,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-08-31,Monday,Data Science,Feature Engineering,Easy,1,1,Normal,Pending,No,Revise Feature Engineering tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-09-01,Tuesday,Data Science,Feature Engineering,Easy,2,1.4,Normal,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-09-02,Wednesday,Python,Loops,Medium,4,2.2,Tired,Completed,Yes,Revise Loops tomorrow,2026-02-20,Low,2,None,No,Take a short break,No,No,No
+2026-09-03,Thursday,Data Science,Data Cleaning,Hard,1,0.7,Tired,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,3,None,Yes,Take a short break,No,No,No
+2026-09-04,Friday,Maths,Algebra,Easy,3,2.4,Tired,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-09-05,Saturday,Machine Learning,Decision Trees,Easy,3,1.4,Tired,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2026-09-06,Sunday,Python,Functions,Easy,2,1.9,Active,Completed,Yes,Revise Functions tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-09-07,Monday,Maths,Vectors,Medium,1,0.7,Active,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Medium,3,None,No,Keep going,No,No,No
+2026-09-08,Tuesday,Data Science,PCA,Easy,3,3,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,4,None,Yes,Take a short break,No,No,No
+2026-09-09,Wednesday,Python,Pandas,Medium,1,0.6,Active,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-09-10,Thursday,Machine Learning,Decision Trees,Medium,2,1,Tired,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-09-11,Friday,Python,Functions,Medium,3,1.7,Active,Completed,Yes,Revise Functions tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-09-12,Saturday,Data Science,EDA,Easy,3,1.9,Tired,Pending,Yes,Revise EDA tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-09-13,Sunday,Statistics,Distributions,Hard,1,0.8,Normal,Pending,Yes,Revise Distributions tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-09-14,Monday,Python,Loops,Hard,2,1.1,Normal,Completed,Yes,Revise Loops tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-09-15,Tuesday,Data Science,PCA,Medium,4,3.9,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-09-16,Wednesday,Data Science,Feature Engineering,Hard,3,1.1,Tired,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-09-17,Thursday,Data Science,Feature Engineering,Hard,1,0.8,Active,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-09-18,Friday,Maths,Calculus,Easy,2,1.5,Active,Completed,Yes,Revise Calculus tomorrow,2026-02-20,Medium,2,None,Yes,Keep going,No,No,No
+2026-09-19,Saturday,Machine Learning,Linear Regression,Hard,1,1,Tired,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-09-20,Sunday,Machine Learning,Clustering,Medium,3,2.9,Active,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-09-21,Monday,Python,Functions,Hard,3,2.8,Normal,Completed,Yes,Revise Functions tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-09-22,Tuesday,Python,Loops,Medium,3,1.9,Tired,Pending,Yes,Revise Loops tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-09-23,Wednesday,Maths,Algebra,Easy,2,0.8,Active,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-09-24,Thursday,Data Science,Feature Engineering,Easy,3,0.8,Active,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-09-25,Friday,Machine Learning,Clustering,Easy,2,1.6,Normal,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-09-26,Saturday,Machine Learning,Decision Trees,Easy,2,1.8,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-09-27,Sunday,Maths,Matrices,Medium,3,1.4,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,3,None,Yes,Take a short break,No,No,No
+2026-09-28,Monday,Data Science,PCA,Easy,4,1,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,4,None,No,Take a short break,No,No,No
+2026-09-29,Tuesday,Machine Learning,Decision Trees,Medium,1,0.6,Active,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,5,Bronze,No,Keep going,No,No,No
+2026-09-30,Wednesday,Python,Functions,Medium,2,0.8,Tired,Pending,Yes,Revise Functions tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-10-01,Thursday,Statistics,Regression,Easy,2,0.6,Tired,Completed,Yes,Revise Regression tomorrow,2026-02-20,Low,1,None,No,Take a short break,No,No,No
+2026-10-02,Friday,Machine Learning,Decision Trees,Easy,4,2.8,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,2,None,Yes,Keep going,No,No,No
+2026-10-03,Saturday,Python,Matplotlib,Medium,4,3.9,Active,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-10-04,Sunday,Data Science,Data Cleaning,Easy,2,1.6,Active,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-10-05,Monday,Data Science,PCA,Hard,1,0.9,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,High,1,None,No,Take a short break,No,No,No
+2026-10-06,Tuesday,Statistics,Hypothesis Testing,Easy,1,0.5,Tired,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,2,None,Yes,Take a short break,No,No,No
+2026-10-07,Wednesday,Maths,Matrices,Easy,4,2.6,Active,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,3,None,Yes,Keep going,No,No,No
+2026-10-08,Thursday,Python,Functions,Medium,3,2,Active,Pending,Yes,Revise Functions tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-10-09,Friday,Statistics,Regression,Easy,4,0.8,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-10-10,Saturday,Python,Matplotlib,Hard,1,0.7,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-10-11,Sunday,Python,Functions,Hard,4,1.9,Tired,Completed,Yes,Revise Functions tomorrow,2026-02-20,High,2,None,No,Take a short break,No,No,No
+2026-10-12,Monday,Statistics,Probability,Medium,2,0.6,Normal,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-10-13,Tuesday,Statistics,Hypothesis Testing,Medium,3,0.9,Normal,Pending,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-10-14,Wednesday,Machine Learning,Clustering,Hard,3,0.8,Normal,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-10-15,Thursday,Machine Learning,Clustering,Easy,3,1.4,Normal,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-10-16,Friday,Maths,Vectors,Medium,4,1.3,Normal,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Medium,3,None,No,Keep going,No,No,No
+2026-10-17,Saturday,Machine Learning,KNN,Hard,1,0.5,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-10-18,Sunday,Python,Pandas,Easy,1,0.7,Active,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-10-19,Monday,Statistics,Regression,Hard,1,0.6,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-10-20,Tuesday,Statistics,Probability,Medium,4,0.7,Active,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-10-21,Wednesday,Maths,Matrices,Medium,2,0.8,Active,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-10-22,Thursday,Machine Learning,Decision Trees,Easy,1,0.6,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-10-23,Friday,Machine Learning,KNN,Medium,3,1.4,Active,Pending,Yes,Revise KNN tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-10-24,Saturday,Python,Pandas,Easy,4,3.7,Active,Completed,Yes,Revise Pandas tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-10-25,Sunday,Statistics,Hypothesis Testing,Hard,3,2.6,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-10-26,Monday,Statistics,Regression,Hard,3,2.2,Normal,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,3,None,Yes,Keep going,No,No,No
+2026-10-27,Tuesday,Machine Learning,Clustering,Medium,4,1,Tired,Completed,Yes,Revise Clustering tomorrow,2026-02-20,High,4,None,No,Take a short break,No,No,No
+2026-10-28,Wednesday,Data Science,Feature Engineering,Hard,3,0.7,Normal,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-10-29,Thursday,Python,Matplotlib,Easy,3,2.6,Normal,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-10-30,Friday,Data Science,PCA,Hard,3,0.6,Normal,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-10-31,Saturday,Statistics,Probability,Easy,4,1.3,Normal,Completed,Yes,Revise Probability tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-11-01,Sunday,Statistics,Regression,Easy,4,2.6,Normal,Completed,Yes,Revise Regression tomorrow,2026-02-20,Low,2,None,No,Keep going,No,No,No
+2026-11-02,Monday,Statistics,Hypothesis Testing,Hard,1,0.6,Active,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,3,None,No,Keep going,No,No,No
+2026-11-03,Tuesday,Statistics,Hypothesis Testing,Easy,4,2,Active,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,4,None,Yes,Keep going,No,No,No
+2026-11-04,Wednesday,Statistics,Probability,Easy,2,1.8,Tired,Completed,Yes,Revise Probability tomorrow,2026-02-20,Low,5,Bronze,Yes,Take a short break,No,No,No
+2026-11-05,Thursday,Machine Learning,KNN,Medium,1,0.6,Normal,Completed,Yes,Revise KNN tomorrow,2026-02-20,Low,6,Bronze,No,Keep going,No,No,No
+2026-11-06,Friday,Maths,Vectors,Hard,3,2.2,Normal,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Low,7,Bronze,No,Keep going,No,No,No
+2026-11-07,Saturday,Data Science,EDA,Hard,1,0.5,Normal,Completed,Yes,Revise EDA tomorrow,2026-02-20,High,8,Bronze,No,Keep going,No,No,No
+2026-11-08,Sunday,Statistics,Hypothesis Testing,Medium,2,1.3,Tired,Pending,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-11-09,Monday,Machine Learning,Decision Trees,Medium,2,1.8,Tired,Pending,Yes,Revise Decision Trees tomorrow,2026-02-20,Medium,0,None,No,Take a short break,No,No,No
+2026-11-10,Tuesday,Data Science,PCA,Hard,2,1.4,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-11-11,Wednesday,Statistics,Distributions,Hard,4,2.6,Normal,Completed,Yes,Revise Distributions tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-11-12,Thursday,Maths,Algebra,Easy,1,0.7,Normal,Pending,Yes,Revise Algebra tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-11-13,Friday,Maths,Matrices,Easy,3,1.3,Normal,Completed,Yes,Revise Matrices tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-11-14,Saturday,Data Science,PCA,Medium,4,0.5,Active,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,2,None,No,Keep going,No,No,No
+2026-11-15,Sunday,Maths,Algebra,Medium,3,0.9,Normal,Pending,Yes,Revise Algebra tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-11-16,Monday,Python,Pandas,Easy,4,3.5,Tired,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-11-17,Tuesday,Statistics,Regression,Easy,2,1.2,Normal,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-11-18,Wednesday,Machine Learning,Clustering,Hard,3,2,Normal,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-11-19,Thursday,Maths,Calculus,Easy,2,1.4,Normal,Pending,Yes,Revise Calculus tomorrow,2026-02-20,Low,0,None,Yes,Keep going,No,No,No
+2026-11-20,Friday,Maths,Matrices,Medium,1,0.7,Normal,Pending,Yes,Revise Matrices tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2026-11-21,Saturday,Maths,Calculus,Hard,3,1.2,Active,Completed,Yes,Revise Calculus tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2026-11-22,Sunday,Data Science,PCA,Hard,4,0.5,Normal,Completed,Yes,Revise PCA tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-11-23,Monday,Maths,Vectors,Medium,4,2.2,Tired,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Low,3,None,No,Take a short break,No,No,No
+2026-11-24,Tuesday,Machine Learning,KNN,Easy,4,1.9,Tired,Completed,Yes,Revise KNN tomorrow,2026-02-20,Low,4,None,No,Take a short break,No,No,No
+2026-11-25,Wednesday,Data Science,Data Cleaning,Hard,2,1.9,Normal,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-11-26,Thursday,Python,Loops,Medium,1,1,Normal,Completed,No,Revise Loops tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-11-27,Friday,Python,Matplotlib,Medium,3,1.7,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,High,2,None,Yes,Keep going,No,No,No
+2026-11-28,Saturday,Maths,Matrices,Medium,4,1,Tired,Completed,Yes,Revise Matrices tomorrow,2026-02-20,High,3,None,No,Take a short break,No,No,No
+2026-11-29,Sunday,Python,Functions,Hard,1,0.7,Active,Pending,Yes,Revise Functions tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-11-30,Monday,Python,Pandas,Easy,1,0.6,Active,Completed,Yes,Revise Pandas tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-12-01,Tuesday,Python,Matplotlib,Medium,2,1.3,Normal,Completed,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-12-02,Wednesday,Statistics,Regression,Easy,3,2.4,Tired,Completed,Yes,Revise Regression tomorrow,2026-02-20,Medium,3,None,Yes,Take a short break,No,No,No
+2026-12-03,Thursday,Data Science,EDA,Hard,4,0.6,Tired,Completed,Yes,Revise EDA tomorrow,2026-02-20,Medium,4,None,No,Take a short break,No,No,No
+2026-12-04,Friday,Statistics,Regression,Hard,1,0.8,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-12-05,Saturday,Python,Loops,Hard,2,1.6,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2026-12-06,Sunday,Machine Learning,Clustering,Hard,2,1,Tired,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2026-12-07,Monday,Machine Learning,Clustering,Hard,4,3.7,Tired,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Low,1,None,Yes,Take a short break,No,No,No
+2026-12-08,Tuesday,Data Science,Feature Engineering,Easy,1,0.8,Tired,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,Medium,2,None,Yes,Take a short break,No,No,No
+2026-12-09,Wednesday,Data Science,Data Cleaning,Medium,2,0.9,Normal,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,3,None,Yes,Keep going,No,No,No
+2026-12-10,Thursday,Machine Learning,Clustering,Easy,4,2.9,Tired,Completed,Yes,Revise Clustering tomorrow,2026-02-20,High,4,None,Yes,Take a short break,No,No,No
+2026-12-11,Friday,Machine Learning,Clustering,Medium,2,1.3,Active,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2026-12-12,Saturday,Data Science,EDA,Hard,1,0.5,Normal,Completed,Yes,Revise EDA tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-12-13,Sunday,Data Science,Data Cleaning,Easy,2,1.7,Active,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-12-14,Monday,Machine Learning,KNN,Easy,2,2,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-12-15,Tuesday,Data Science,Data Cleaning,Hard,3,1.9,Tired,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,1,None,No,Take a short break,No,No,No
+2026-12-16,Wednesday,Statistics,Probability,Easy,2,1.4,Tired,Pending,Yes,Revise Probability tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2026-12-17,Thursday,Data Science,PCA,Easy,4,3.6,Active,Completed,Yes,Revise PCA tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-12-18,Friday,Statistics,Regression,Hard,1,1,Tired,Completed,Yes,Revise Regression tomorrow,2026-02-20,Medium,2,None,Yes,Take a short break,No,No,No
+2026-12-19,Saturday,Maths,Algebra,Hard,3,0.7,Normal,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Low,3,None,No,Keep going,No,No,No
+2026-12-20,Sunday,Statistics,Regression,Easy,2,1.2,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2026-12-21,Monday,Machine Learning,KNN,Easy,4,1.4,Normal,Completed,Yes,Revise KNN tomorrow,2026-02-20,Low,1,None,No,Keep going,No,No,No
+2026-12-22,Tuesday,Statistics,Regression,Hard,4,4,Active,Completed,No,Revise Regression tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2026-12-23,Wednesday,Data Science,Data Cleaning,Medium,1,0.8,Active,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-12-24,Thursday,Data Science,Data Cleaning,Easy,2,1.4,Normal,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2026-12-25,Friday,Maths,Vectors,Medium,3,1.4,Active,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2026-12-26,Saturday,Python,Loops,Easy,1,0.5,Active,Completed,Yes,Revise Loops tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2026-12-27,Sunday,Machine Learning,Clustering,Hard,1,0.6,Active,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2026-12-28,Monday,Machine Learning,Linear Regression,Hard,4,3.4,Normal,Completed,Yes,Revise Linear Regression tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2026-12-29,Tuesday,Machine Learning,KNN,Medium,2,1.5,Active,Completed,Yes,Revise KNN tomorrow,2026-02-20,High,2,None,No,Keep going,No,No,No
+2026-12-30,Wednesday,Data Science,EDA,Medium,4,2.5,Normal,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2026-12-31,Thursday,Data Science,PCA,Medium,3,0.8,Tired,Completed,Yes,Revise PCA tomorrow,2026-02-20,High,1,None,No,Take a short break,No,No,No
+2027-01-01,Friday,Python,Matplotlib,Hard,4,3.5,Active,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2027-01-02,Saturday,Statistics,Regression,Easy,1,1,Tired,Pending,Yes,Revise Regression tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2027-01-03,Sunday,Data Science,Feature Engineering,Medium,3,2.6,Tired,Pending,Yes,Revise Feature Engineering tomorrow,2026-02-20,High,0,None,Yes,Take a short break,No,No,No
+2027-01-04,Monday,Data Science,EDA,Easy,4,0.5,Tired,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2027-01-05,Tuesday,Machine Learning,Clustering,Medium,1,0.9,Active,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Low,1,None,Yes,Keep going,No,No,No
+2027-01-06,Wednesday,Data Science,PCA,Medium,2,1.1,Tired,Pending,Yes,Revise PCA tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2027-01-07,Thursday,Machine Learning,Clustering,Easy,4,2.3,Normal,Pending,Yes,Revise Clustering tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2027-01-08,Friday,Maths,Algebra,Easy,2,1.5,Tired,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Medium,1,None,No,Take a short break,No,No,No
+2027-01-09,Saturday,Statistics,Hypothesis Testing,Hard,2,0.9,Active,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2027-01-10,Sunday,Machine Learning,KNN,Hard,4,1.9,Normal,Pending,Yes,Revise KNN tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2027-01-11,Monday,Statistics,Hypothesis Testing,Medium,3,0.9,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2027-01-12,Tuesday,Maths,Algebra,Medium,2,1.6,Tired,Completed,Yes,Revise Algebra tomorrow,2026-02-20,High,2,None,No,Take a short break,No,No,No
+2027-01-13,Wednesday,Data Science,Feature Engineering,Medium,1,0.7,Tired,Completed,Yes,Revise Feature Engineering tomorrow,2026-02-20,High,3,None,No,Take a short break,No,No,No
+2027-01-14,Thursday,Maths,Calculus,Hard,1,0.9,Tired,Pending,Yes,Revise Calculus tomorrow,2026-02-20,High,0,None,No,Take a short break,No,No,No
+2027-01-15,Friday,Statistics,Regression,Hard,4,0.5,Normal,Completed,Yes,Revise Regression tomorrow,2026-02-20,Medium,1,None,No,Keep going,No,No,No
+2027-01-16,Saturday,Python,Pandas,Easy,4,1.4,Normal,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2027-01-17,Sunday,Statistics,Regression,Easy,2,1.3,Tired,Completed,Yes,Revise Regression tomorrow,2026-02-20,High,1,None,No,Take a short break,No,No,No
+2027-01-18,Monday,Machine Learning,Decision Trees,Hard,2,1.2,Normal,Completed,Yes,Revise Decision Trees tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2027-01-19,Tuesday,Statistics,Distributions,Hard,4,0.8,Active,Pending,Yes,Revise Distributions tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2027-01-20,Wednesday,Machine Learning,Clustering,Easy,1,0.7,Normal,Pending,Yes,Revise Clustering tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2027-01-21,Thursday,Python,Loops,Medium,3,0.8,Tired,Completed,Yes,Revise Loops tomorrow,2026-02-20,Medium,1,None,No,Take a short break,No,No,No
+2027-01-22,Friday,Python,Matplotlib,Easy,2,0.8,Active,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2027-01-23,Saturday,Maths,Calculus,Hard,3,3,Active,Completed,No,Revise Calculus tomorrow,2026-02-20,High,1,None,No,Keep going,No,No,No
+2027-01-24,Sunday,Machine Learning,KNN,Medium,2,1.2,Normal,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2027-01-25,Monday,Statistics,Hypothesis Testing,Easy,4,3.3,Normal,Completed,Yes,Revise Hypothesis Testing tomorrow,2026-02-20,High,1,None,Yes,Keep going,No,No,No
+2027-01-26,Tuesday,Machine Learning,KNN,Medium,1,0.8,Tired,Pending,Yes,Revise KNN tomorrow,2026-02-20,Medium,0,None,Yes,Take a short break,No,No,No
+2027-01-27,Wednesday,Maths,Algebra,Medium,4,2.1,Normal,Completed,Yes,Revise Algebra tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2027-01-28,Thursday,Data Science,Data Cleaning,Hard,2,1.7,Normal,Completed,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,2,None,Yes,Keep going,No,No,No
+2027-01-29,Friday,Data Science,EDA,Easy,1,0.9,Tired,Completed,Yes,Revise EDA tomorrow,2026-02-20,Low,3,None,Yes,Take a short break,No,No,No
+2027-01-30,Saturday,Data Science,PCA,Easy,1,0.8,Tired,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2027-01-31,Sunday,Python,Pandas,Medium,3,1.7,Active,Pending,Yes,Revise Pandas tomorrow,2026-02-20,Medium,0,None,Yes,Keep going,No,No,No
+2027-02-01,Monday,Python,Matplotlib,Medium,4,3,Normal,Pending,Yes,Revise Matplotlib tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2027-02-02,Tuesday,Data Science,EDA,Medium,2,1.3,Normal,Pending,Yes,Revise EDA tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2027-02-03,Wednesday,Machine Learning,Linear Regression,Easy,4,3.4,Active,Pending,Yes,Revise Linear Regression tomorrow,2026-02-20,High,0,None,Yes,Keep going,No,No,No
+2027-02-04,Thursday,Machine Learning,Clustering,Hard,4,0.7,Tired,Completed,Yes,Revise Clustering tomorrow,2026-02-20,Medium,1,None,Yes,Take a short break,No,No,No
+2027-02-05,Friday,Maths,Vectors,Hard,1,0.5,Normal,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2027-02-06,Saturday,Maths,Matrices,Hard,4,3.5,Active,Pending,Yes,Revise Matrices tomorrow,2026-02-20,Medium,0,None,No,Keep going,No,No,No
+2027-02-07,Sunday,Python,Pandas,Medium,2,1,Normal,Pending,Yes,Revise Pandas tomorrow,2026-02-20,High,0,None,No,Keep going,No,No,No
+2027-02-08,Monday,Maths,Vectors,Medium,2,1.8,Tired,Pending,Yes,Revise Vectors tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2027-02-09,Tuesday,Data Science,PCA,Medium,3,2.5,Active,Pending,Yes,Revise PCA tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No
+2027-02-10,Wednesday,Maths,Vectors,Medium,4,1.8,Active,Completed,Yes,Revise Vectors tomorrow,2026-02-20,Medium,1,None,Yes,Keep going,No,No,No
+2027-02-11,Thursday,Data Science,Data Cleaning,Easy,4,0.7,Tired,Pending,Yes,Revise Data Cleaning tomorrow,2026-02-20,Low,0,None,Yes,Take a short break,No,No,No
+2027-02-12,Friday,Maths,Matrices,Easy,3,0.6,Active,Pending,Yes,Revise Matrices tomorrow,2026-02-20,Low,0,None,No,Keep going,No,No,No

@@ -1,0 +1,161 @@
+/* style.css - Custom CSS styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Custom button styles */
+.stButton > button {
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Mood selection buttons */
+.mood-button {
+    font-size: 1.2em;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 2px solid transparent;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.mood-button:hover {
+    border-color: #667eea;
+    background: white;
+    color: #667eea;
+}
+
+/* Timer styling */
+.timer-container {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    margin: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.timer-time {
+    font-size: 3em;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+/* Progress bars */
+.progress-container {
+    background-color: #f0f2f6;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+/* Topic cards */
+.topic-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 5px solid #667eea;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.topic-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Chat bubbles */
+.chat-bubble-user {
+    background-color: #e3f2fd;
+    padding: 10px;
+    border-radius: 15px 15px 0 15px;
+    margin: 5px 0;
+    max-width: 80%;
+    float: right;
+}
+
+.chat-bubble-assistant {
+    background-color: #f1f8e9;
+    padding: 10px;
+    border-radius: 15px 15px 15px 0;
+    margin: 5px 0;
+    max-width: 80%;
+    float: left;
+}
+
+/* Dashboard metrics */
+.metric-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px;
+}
+
+.metric-value {
+    font-size: 2em;
+    font-weight: bold;
+    color: #667eea;
+}
+
+.metric-label {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
+}
+
+/* Note items */
+.note-item {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border-left: 3px solid #28a745;
+}
+
+.note-item-completed {
+    background-color: #d4edda;
+    text-decoration: line-through;
+    opacity: 0.8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .timer-time {
+        font-size: 2em;
+    }
+    
+    .metric-card {
+        margin: 10px 0;
+    }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #667eea;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #764ba2;
+}
